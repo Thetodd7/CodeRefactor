@@ -1,4 +1,4 @@
-### code-refactor
+### Code-refactor
 
 ---
  Simplified the code and made it more SEO friendly without changing how the site looks or functions.
