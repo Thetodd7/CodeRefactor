@@ -1,4 +1,6 @@
-# code-refactor
+### code-refactor
+
+---
  Simplified the code and made it more SEO friendly without changing how the site looks or functions.
 
 <h2>Live Site</h2>
